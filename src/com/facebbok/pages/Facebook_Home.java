@@ -37,7 +37,7 @@ public class Facebook_Home extends TestBase{
 				System.out.println(elem.getText());
 			}
 			
-			JavascriptExecutor js = (JavascriptExecutor) driver;		
+			JavascriptExecutor  js = (JavascriptExecutor) driver;		
 			js.executeScript("window.scrollBy(0, 1000)");
 			Thread.sleep(4000);
 			
