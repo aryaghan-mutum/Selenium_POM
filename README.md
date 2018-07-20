@@ -10,7 +10,9 @@ Java
 
 ## Installation
 1. Before writing the code, you must downlaod Slenium Server Standalone jar,
-2. Download geckodriver/chromedriver and put it in a folder under the Java Project. If you want to test on Chrome Browser  use chromedriver, If you want to test on Firefox Browser, use geckodriver.
+2. Download geckodriver/chromedriver and put it in a folder under the Java Project. 
+3. Test on Chrome Browser use **chromedriver**
+4. Test on Firefox Browser use **geckodriver**
 
 
 
